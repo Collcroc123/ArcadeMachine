@@ -1,0 +1,4527 @@
+fileFormatVersion: 2
+guid: ae086469e9b6e8748b364239cfd1f67d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3452912944203954355
+    second: Border_Purple
+  - first:
+      213: -7258982193374419196
+    second: SpaceShooterAssetPack_IU_1
+  - first:
+      213: 4888668457609010390
+    second: Border_Blue
+  - first:
+      213: 8965784993433089314
+    second: SpaceShooterAssetPack_IU_3
+  - first:
+      213: 4642847126731458489
+    second: SpaceShooterAssetPack_IU_4
+  - first:
+      213: -223824773378648341
+    second: SpaceShooterAssetPack_IU_5
+  - first:
+      213: 2142168787390626652
+    second: SpaceShooterAssetPack_IU_6
+  - first:
+      213: 1843883542749878518
+    second: SpaceShooterAssetPack_IU_7
+  - first:
+      213: 5224479735999471245
+    second: SpaceShooterAssetPack_IU_8
+  - first:
+      213: -5074911972745072549
+    second: SpaceShooterAssetPack_IU_9
+  - first:
+      213: -3493385747650136594
+    second: SpaceShooterAssetPack_IU_10
+  - first:
+      213: 5135815011886114324
+    second: SpaceShooterAssetPack_IU_11
+  - first:
+      213: -1221463035302421769
+    second: SpaceShooterAssetPack_IU_12
+  - first:
+      213: 8233526693794336134
+    second: SpaceShooterAssetPack_IU_13
+  - first:
+      213: 3360235435781677770
+    second: SpaceShooterAssetPack_IU_14
+  - first:
+      213: 1676170230159958321
+    second: SpaceShooterAssetPack_IU_15
+  - first:
+      213: -7927891642325709160
+    second: SpaceShooterAssetPack_IU_16
+  - first:
+      213: 8423314330024886932
+    second: SpaceShooterAssetPack_IU_17
+  - first:
+      213: 264499887200112698
+    second: SpaceShooterAssetPack_IU_18
+  - first:
+      213: 5717717382307980761
+    second: SpaceShooterAssetPack_IU_19
+  - first:
+      213: -6873904056710587488
+    second: SpaceShooterAssetPack_IU_20
+  - first:
+      213: -2532037538075230654
+    second: SpaceShooterAssetPack_IU_21
+  - first:
+      213: 6148453824856114451
+    second: SpaceShooterAssetPack_IU_22
+  - first:
+      213: -5298572836965776472
+    second: SpaceShooterAssetPack_IU_23
+  - first:
+      213: 7011853322196699048
+    second: SpaceShooterAssetPack_IU_24
+  - first:
+      213: 838091584072892852
+    second: SpaceShooterAssetPack_IU_25
+  - first:
+      213: 7499729351244930253
+    second: SpaceShooterAssetPack_IU_26
+  - first:
+      213: 8728730234681821496
+    second: SpaceShooterAssetPack_IU_27
+  - first:
+      213: 7484882627306939557
+    second: SpaceShooterAssetPack_IU_28
+  - first:
+      213: 1690195930642928907
+    second: SpaceShooterAssetPack_IU_29
+  - first:
+      213: 1788419685810274126
+    second: SpaceShooterAssetPack_IU_30
+  - first:
+      213: 865860397478465109
+    second: SpaceShooterAssetPack_IU_31
+  - first:
+      213: -5269007468833056515
+    second: SpaceShooterAssetPack_IU_32
+  - first:
+      213: -84603356119871568
+    second: SpaceShooterAssetPack_IU_33
+  - first:
+      213: -6384696722083346048
+    second: SpaceShooterAssetPack_IU_34
+  - first:
+      213: -3540434234070303613
+    second: SpaceShooterAssetPack_IU_35
+  - first:
+      213: -1178385141441298970
+    second: SpaceShooterAssetPack_IU_36
+  - first:
+      213: -8240439098542218712
+    second: SpaceShooterAssetPack_IU_37
+  - first:
+      213: -162138010861451492
+    second: SpaceShooterAssetPack_IU_38
+  - first:
+      213: -6882507286986279354
+    second: SpaceShooterAssetPack_IU_39
+  - first:
+      213: -5362928197167411349
+    second: SpaceShooterAssetPack_IU_40
+  - first:
+      213: -5873487238504630196
+    second: SpaceShooterAssetPack_IU_41
+  - first:
+      213: 1930058346317818568
+    second: SpaceShooterAssetPack_IU_42
+  - first:
+      213: -4139503762911246159
+    second: SpaceShooterAssetPack_IU_43
+  - first:
+      213: -503816991065874192
+    second: SpaceShooterAssetPack_IU_44
+  - first:
+      213: -1395287700921370232
+    second: SpaceShooterAssetPack_IU_45
+  - first:
+      213: -6036142493994027142
+    second: SpaceShooterAssetPack_IU_46
+  - first:
+      213: 7350898730228133446
+    second: Border_White
+  - first:
+      213: -5425576646436053967
+    second: SpaceShooterAssetPack_IU_48
+  - first:
+      213: -954669595702701230
+    second: Border_White_Opaque
+  - first:
+      213: -523466012106689217
+    second: SpaceShooterAssetPack_IU_50
+  - first:
+      213: -2336566210519959584
+    second: SpaceShooterAssetPack_IU_51
+  - first:
+      213: -9151649041886298474
+    second: SpaceShooterAssetPack_IU_52
+  - first:
+      213: 958542056133617941
+    second: SpaceShooterAssetPack_IU_53
+  - first:
+      213: -7714338285260234444
+    second: SpaceShooterAssetPack_IU_54
+  - first:
+      213: 103550349506726448
+    second: SpaceShooterAssetPack_IU_55
+  - first:
+      213: 3742395297065222208
+    second: SpaceShooterAssetPack_IU_56
+  - first:
+      213: 6822978083967137961
+    second: SpaceShooterAssetPack_IU_57
+  - first:
+      213: 2356424689962124757
+    second: SpaceShooterAssetPack_IU_58
+  - first:
+      213: 99814479347197142
+    second: SpaceShooterAssetPack_IU_59
+  - first:
+      213: -6211958496233933844
+    second: SpaceShooterAssetPack_IU_60
+  - first:
+      213: -8632168838928731939
+    second: SpaceShooterAssetPack_IU_61
+  - first:
+      213: -437360958066539624
+    second: SpaceShooterAssetPack_IU_62
+  - first:
+      213: 6182392400579912461
+    second: SpaceShooterAssetPack_IU_63
+  - first:
+      213: 614339202831574978
+    second: SpaceShooterAssetPack_IU_64
+  - first:
+      213: -7965859520426587861
+    second: SpaceShooterAssetPack_IU_65
+  - first:
+      213: -845720593366117335
+    second: SpaceShooterAssetPack_IU_66
+  - first:
+      213: 625499643319469314
+    second: SpaceShooterAssetPack_IU_67
+  - first:
+      213: 233667939237985529
+    second: SpaceShooterAssetPack_IU_68
+  - first:
+      213: 8540278468836886929
+    second: SpaceShooterAssetPack_IU_69
+  - first:
+      213: 7988036894404476536
+    second: SpaceShooterAssetPack_IU_70
+  - first:
+      213: -1713619823113496105
+    second: SpaceShooterAssetPack_IU_71
+  - first:
+      213: 2603797059694369212
+    second: SpaceShooterAssetPack_IU_72
+  - first:
+      213: 2811703799971608048
+    second: SpaceShooterAssetPack_IU_73
+  - first:
+      213: 445756375929276695
+    second: SpaceShooterAssetPack_IU_74
+  - first:
+      213: 5525145373968796955
+    second: SpaceShooterAssetPack_IU_75
+  - first:
+      213: 4898244958693669952
+    second: SpaceShooterAssetPack_IU_76
+  - first:
+      213: -619451703917740810
+    second: SpaceShooterAssetPack_IU_77
+  - first:
+      213: -6309435089679190764
+    second: SpaceShooterAssetPack_IU_78
+  - first:
+      213: 1699031617341251079
+    second: SpaceShooterAssetPack_IU_79
+  - first:
+      213: -5980920363406446268
+    second: SpaceShooterAssetPack_IU_80
+  - first:
+      213: -8637855023576613679
+    second: SpaceShooterAssetPack_IU_81
+  - first:
+      213: 5215066777938504653
+    second: SpaceShooterAssetPack_IU_82
+  - first:
+      213: 5476304928294128101
+    second: SpaceShooterAssetPack_IU_83
+  - first:
+      213: 1008081914277028314
+    second: SpaceShooterAssetPack_IU_84
+  - first:
+      213: 7344074367981140451
+    second: SpaceShooterAssetPack_IU_85
+  - first:
+      213: 1140266673284140176
+    second: SpaceShooterAssetPack_IU_86
+  - first:
+      213: -6303070768839223954
+    second: SpaceShooterAssetPack_IU_87
+  - first:
+      213: -3775348368866739023
+    second: SpaceShooterAssetPack_IU_88
+  - first:
+      213: -3619957692200869550
+    second: SpaceShooterAssetPack_IU_89
+  - first:
+      213: -4782164463527109845
+    second: SpaceShooterAssetPack_IU_90
+  - first:
+      213: -6168899690134247087
+    second: SpaceShooterAssetPack_IU_91
+  - first:
+      213: -3577135547929018270
+    second: SpaceShooterAssetPack_IU_92
+  - first:
+      213: 2206683155246599118
+    second: SpaceShooterAssetPack_IU_93
+  - first:
+      213: -7957940941002683173
+    second: SpaceShooterAssetPack_IU_94
+  - first:
+      213: 7678439804162588763
+    second: Border_Black
+  - first:
+      213: -8105129928192724823
+    second: SpaceShooterAssetPack_IU_96
+  - first:
+      213: 5973119853548683908
+    second: Border_Black_Opaque
+  - first:
+      213: -2560851186879256139
+    second: SpaceShooterAssetPack_IU_98
+  - first:
+      213: 2086881207742793721
+    second: SpaceShooterAssetPack_IU_99
+  - first:
+      213: 4536858523243504767
+    second: SpaceShooterAssetPack_IU_100
+  - first:
+      213: -4108068603007458022
+    second: SpaceShooterAssetPack_IU_101
+  - first:
+      213: 2771888885742397974
+    second: SpaceShooterAssetPack_IU_102
+  - first:
+      213: -1238621970460473370
+    second: SpaceShooterAssetPack_IU_103
+  - first:
+      213: 9175000086767085486
+    second: SpaceShooterAssetPack_IU_104
+  - first:
+      213: -1425102820129568603
+    second: SpaceShooterAssetPack_IU_105
+  - first:
+      213: 4780599060385790194
+    second: SpaceShooterAssetPack_IU_106
+  - first:
+      213: 1467903826829274187
+    second: SpaceShooterAssetPack_IU_107
+  - first:
+      213: 5522333571819184949
+    second: SpaceShooterAssetPack_IU_108
+  - first:
+      213: -3367938131157937069
+    second: SpaceShooterAssetPack_IU_109
+  - first:
+      213: 4976344279592864611
+    second: SpaceShooterAssetPack_IU_110
+  - first:
+      213: -6045107256551762271
+    second: SpaceShooterAssetPack_IU_111
+  - first:
+      213: 1902255344923190654
+    second: SpaceShooterAssetPack_IU_112
+  - first:
+      213: -6989376458542859358
+    second: SpaceShooterAssetPack_IU_113
+  - first:
+      213: -691121813350040978
+    second: SpaceShooterAssetPack_IU_114
+  - first:
+      213: 2409025994085726455
+    second: SpaceShooterAssetPack_IU_115
+  - first:
+      213: 3430649903162706916
+    second: SpaceShooterAssetPack_IU_116
+  - first:
+      213: 4346743063422895964
+    second: SpaceShooterAssetPack_IU_117
+  - first:
+      213: -3277827668333124166
+    second: SpaceShooterAssetPack_IU_118
+  - first:
+      213: -6262074311619283514
+    second: SpaceShooterAssetPack_IU_119
+  - first:
+      213: -5737145954870288507
+    second: SpaceShooterAssetPack_IU_120
+  - first:
+      213: -2423378875703265053
+    second: SpaceShooterAssetPack_IU_121
+  - first:
+      213: 291058914436900953
+    second: SpaceShooterAssetPack_IU_122
+  - first:
+      213: 3127622410571963445
+    second: SpaceShooterAssetPack_IU_123
+  - first:
+      213: 8843998417824375382
+    second: SpaceShooterAssetPack_IU_124
+  - first:
+      213: -8034535467671311000
+    second: SpaceShooterAssetPack_IU_125
+  - first:
+      213: 8646110716458889943
+    second: SpaceShooterAssetPack_IU_126
+  - first:
+      213: 8526770720965839038
+    second: SpaceShooterAssetPack_IU_127
+  - first:
+      213: 4215261120705238059
+    second: SpaceShooterAssetPack_IU_128
+  - first:
+      213: -9016877705204115001
+    second: SpaceShooterAssetPack_IU_129
+  - first:
+      213: 4689396470022461848
+    second: SpaceShooterAssetPack_IU_130
+  - first:
+      213: 2668448822186259178
+    second: SpaceShooterAssetPack_IU_131
+  - first:
+      213: -2659854180952376817
+    second: SpaceShooterAssetPack_IU_132
+  - first:
+      213: -1016130793649296678
+    second: SpaceShooterAssetPack_IU_133
+  - first:
+      213: 2465022439733303670
+    second: SpaceShooterAssetPack_IU_134
+  - first:
+      213: 5603584199457156934
+    second: SpaceShooterAssetPack_IU_135
+  - first:
+      213: 8847946490209676948
+    second: SpaceShooterAssetPack_IU_136
+  - first:
+      213: -6402680207169293396
+    second: SpaceShooterAssetPack_IU_137
+  - first:
+      213: -5891310080200280316
+    second: Border_Gold_Opaque
+  - first:
+      213: -1676979110093887767
+    second: SpaceShooterAssetPack_IU_139
+  - first:
+      213: -2866854802560313593
+    second: Border_Silver_Opaque
+  - first:
+      213: 875248337410857134
+    second: SpaceShooterAssetPack_IU_141
+  - first:
+      213: -3199929052845386784
+    second: SpaceShooterAssetPack_IU_142
+  - first:
+      213: 1643494061466274778
+    second: SpaceShooterAssetPack_IU_143
+  - first:
+      213: -2973793410628910467
+    second: SpaceShooterAssetPack_IU_144
+  - first:
+      213: 6880636277951922084
+    second: SpaceShooterAssetPack_IU_145
+  - first:
+      213: -5052399488861910642
+    second: SpaceShooterAssetPack_IU_146
+  - first:
+      213: 734704572489413230
+    second: SpaceShooterAssetPack_IU_147
+  - first:
+      213: -6271760466762276621
+    second: SpaceShooterAssetPack_IU_148
+  - first:
+      213: -3031335637273210080
+    second: SpaceShooterAssetPack_IU_149
+  - first:
+      213: -3891630032771386377
+    second: SpaceShooterAssetPack_IU_150
+  - first:
+      213: -6107074183206804257
+    second: SpaceShooterAssetPack_IU_151
+  - first:
+      213: 5175506070588484754
+    second: SpaceShooterAssetPack_IU_152
+  - first:
+      213: 9187446057557477763
+    second: SpaceShooterAssetPack_IU_153
+  - first:
+      213: -7217784514304567098
+    second: SpaceShooterAssetPack_IU_154
+  - first:
+      213: 6874274490724538304
+    second: SpaceShooterAssetPack_IU_155
+  - first:
+      213: 1698840464504650702
+    second: SpaceShooterAssetPack_IU_156
+  - first:
+      213: -7529977944653205202
+    second: SpaceShooterAssetPack_IU_157
+  - first:
+      213: 7827207704576330947
+    second: SpaceShooterAssetPack_IU_158
+  - first:
+      213: -8229297735951799585
+    second: SpaceShooterAssetPack_IU_159
+  - first:
+      213: -1228696633207251769
+    second: SpaceShooterAssetPack_IU_160
+  - first:
+      213: 6206060537554450621
+    second: SpaceShooterAssetPack_IU_161
+  - first:
+      213: -4584330758462968444
+    second: SpaceShooterAssetPack_IU_162
+  - first:
+      213: 6609660235950777082
+    second: SpaceShooterAssetPack_IU_163
+  - first:
+      213: -3251146922570084279
+    second: SpaceShooterAssetPack_IU_164
+  - first:
+      213: -2228930887713929528
+    second: SpaceShooterAssetPack_IU_165
+  - first:
+      213: 2735635676851868275
+    second: SpaceShooterAssetPack_IU_166
+  - first:
+      213: -1205158174498093254
+    second: SpaceShooterAssetPack_IU_167
+  - first:
+      213: 2568709343261897737
+    second: SpaceShooterAssetPack_IU_168
+  - first:
+      213: -1380158460835747954
+    second: SpaceShooterAssetPack_IU_169
+  - first:
+      213: 6415885645217660406
+    second: SpaceShooterAssetPack_IU_170
+  - first:
+      213: 4825347715465762473
+    second: SpaceShooterAssetPack_IU_171
+  - first:
+      213: -4708225783909326572
+    second: SpaceShooterAssetPack_IU_172
+  - first:
+      213: -7005883249573611858
+    second: SpaceShooterAssetPack_IU_173
+  - first:
+      213: -6369283030707269180
+    second: SpaceShooterAssetPack_IU_174
+  - first:
+      213: -4173211815161692785
+    second: SpaceShooterAssetPack_IU_175
+  - first:
+      213: -7952279626944891204
+    second: SpaceShooterAssetPack_IU_176
+  - first:
+      213: 2822768513384361128
+    second: SpaceShooterAssetPack_IU_177
+  - first:
+      213: 1639124361682599572
+    second: SpaceShooterAssetPack_IU_178
+  - first:
+      213: -7948491832281024381
+    second: SpaceShooterAssetPack_IU_179
+  - first:
+      213: 3626945318455628986
+    second: SpaceShooterAssetPack_IU_180
+  - first:
+      213: 4468939409987538086
+    second: SpaceShooterAssetPack_IU_181
+  - first:
+      213: -7305726786203364178
+    second: SpaceShooterAssetPack_IU_182
+  - first:
+      213: -4815678141300842456
+    second: SpaceShooterAssetPack_IU_183
+  - first:
+      213: 8398736988866831263
+    second: SpaceShooterAssetPack_IU_184
+  - first:
+      213: -5328409741952390623
+    second: SpaceShooterAssetPack_IU_185
+  - first:
+      213: 3758903305837294383
+    second: Border_Gold
+  - first:
+      213: 6320979887371968220
+    second: SpaceShooterAssetPack_IU_187
+  - first:
+      213: 7121945883072557946
+    second: Border_Silver
+  - first:
+      213: -6673350466329362357
+    second: SpaceShooterAssetPack_IU_189
+  - first:
+      213: 3832897128299892014
+    second: SpaceShooterAssetPack_IU_190
+  - first:
+      213: 5894771965275567078
+    second: SpaceShooterAssetPack_IU_191
+  - first:
+      213: -1614394432848289598
+    second: SpaceShooterAssetPack_IU_192
+  - first:
+      213: 5877488962799250937
+    second: SpaceShooterAssetPack_IU_193
+  - first:
+      213: 1980968486922651820
+    second: SpaceShooterAssetPack_IU_194
+  - first:
+      213: 3893603083896846668
+    second: SpaceShooterAssetPack_IU_195
+  - first:
+      213: 6483817383315052404
+    second: SpaceShooterAssetPack_IU_196
+  - first:
+      213: -3095707437295687434
+    second: SpaceShooterAssetPack_IU_210
+  - first:
+      213: -155809290724209369
+    second: SpaceShooterAssetPack_IU_211
+  - first:
+      213: -254275311583952057
+    second: SpaceShooterAssetPack_IU_212
+  - first:
+      213: 5668068987157487189
+    second: SpaceShooterAssetPack_IU_213
+  - first:
+      213: 1149317714568015869
+    second: SpaceShooterAssetPack_IU_214
+  - first:
+      213: -7348815730991630468
+    second: SpaceShooterAssetPack_IU_215
+  - first:
+      213: 1278834977062069441
+    second: SpaceShooterAssetPack_IU_216
+  - first:
+      213: 2828328101373362789
+    second: SpaceShooterAssetPack_IU_217
+  - first:
+      213: -9069280530670491222
+    second: SpaceShooterAssetPack_IU_219
+  - first:
+      213: 8379327021406492117
+    second: SpaceShooterAssetPack_IU_220
+  - first:
+      213: -7259453539938244931
+    second: SpaceShooterAssetPack_IU_222
+  - first:
+      213: -8318178924369322180
+    second: SpaceShooterAssetPack_IU_223
+  - first:
+      213: 2932832095006529099
+    second: SpaceShooterAssetPack_IU_225
+  - first:
+      213: 8985693822067916106
+    second: SpaceShooterAssetPack_IU_227
+  - first:
+      213: -5020138131219340706
+    second: SpaceShooterAssetPack_IU_228
+  - first:
+      213: 4903260575699017528
+    second: SpaceShooterAssetPack_IU_229
+  - first:
+      213: -1267502496523183843
+    second: SilverHorizontal
+  - first:
+      213: -1328557871367951090
+    second: SpaceShooterAssetPack_IU_231
+  - first:
+      213: -1811077028008956696
+    second: SpaceShooterAssetPack_IU_232
+  - first:
+      213: 82090449124086898
+    second: SpaceShooterAssetPack_IU_233
+  - first:
+      213: -8563282314072620867
+    second: SpaceShooterAssetPack_IU_234
+  - first:
+      213: -397511531845125836
+    second: SpaceShooterAssetPack_IU_235
+  - first:
+      213: 5615438492462372755
+    second: SpaceShooterAssetPack_IU_236
+  - first:
+      213: 7144663343512010465
+    second: SpaceShooterAssetPack_IU_237
+  - first:
+      213: -8745614518735857692
+    second: SpaceShooterAssetPack_IU_238
+  - first:
+      213: 8404796365709169608
+    second: SpaceShooterAssetPack_IU_239
+  - first:
+      213: -7967130407534601799
+    second: GoldHorizontal
+  - first:
+      213: 7352979188812241180
+    second: SpaceShooterAssetPack_IU_254
+  - first:
+      213: 4908509657821055642
+    second: GoldVertical
+  - first:
+      213: 840380891231947001
+    second: SilverVertical
+  - first:
+      213: 4650465745540196823
+    second: SpaceShooterAssetPack_IU_257
+  - first:
+      213: 7175143845704052154
+    second: SpaceShooterAssetPack_IU_258
+  - first:
+      213: 6902578925329822287
+    second: SpaceShooterAssetPack_IU_259
+  - first:
+      213: -1393617219363223122
+    second: SpaceShooterAssetPack_IU_260
+  - first:
+      213: -4098867050891952713
+    second: SpaceShooterAssetPack_IU_261
+  - first:
+      213: -4557037459885570466
+    second: SpaceShooterAssetPack_IU_262
+  - first:
+      213: 5723455200566983950
+    second: SpaceShooterAssetPack_IU_263
+  - first:
+      213: -4484926786249832901
+    second: SpaceShooterAssetPack_IU_265
+  - first:
+      213: 775452837234448604
+    second: SpaceShooterAssetPack_IU_266
+  - first:
+      213: -8404752259937590438
+    second: SpaceShooterAssetPack_IU_268
+  - first:
+      213: -2017323346689462130
+    second: SpaceShooterAssetPack_IU_269
+  - first:
+      213: -5761192907987864431
+    second: SpaceShooterAssetPack_IU_271
+  - first:
+      213: -1047692945700636832
+    second: SpaceShooterAssetPack_IU_273
+  - first:
+      213: 5271400440352888602
+    second: SpaceShooterAssetPack_IU_274
+  - first:
+      213: -8345446632750985672
+    second: SpaceShooterAssetPack_IU_275
+  - first:
+      213: -5026360704553562065
+    second: SpaceShooterAssetPack_IU_276
+  - first:
+      213: -7419658268034285258
+    second: SpaceShooterAssetPack_IU_277
+  - first:
+      213: 7551413372436967069
+    second: SpaceShooterAssetPack_IU_278
+  - first:
+      213: -5712897353525277332
+    second: SpaceShooterAssetPack_IU_279
+  - first:
+      213: 659092693671876771
+    second: SpaceShooterAssetPack_IU_280
+  - first:
+      213: 1193204451525415767
+    second: SpaceShooterAssetPack_IU_281
+  - first:
+      213: -1669319138903173075
+    second: SpaceShooterAssetPack_IU_295
+  - first:
+      213: 6193225546294112652
+    second: SpaceShooterAssetPack_IU_296
+  - first:
+      213: -8116345425195941611
+    second: SpaceShooterAssetPack_IU_297
+  - first:
+      213: 7399691179141718130
+    second: SpaceShooterAssetPack_IU_298
+  - first:
+      213: 7656846155556649816
+    second: SpaceShooterAssetPack_IU_299
+  - first:
+      213: -2255828517499740440
+    second: SpaceShooterAssetPack_IU_300
+  - first:
+      213: 5094612141468418666
+    second: SpaceShooterAssetPack_IU_301
+  - first:
+      213: 5054309234762421286
+    second: SpaceShooterAssetPack_IU_303
+  - first:
+      213: 6310770611877805581
+    second: SpaceShooterAssetPack_IU_304
+  - first:
+      213: -7996340944176786759
+    second: SpaceShooterAssetPack_IU_306
+  - first:
+      213: 5790087041572238738
+    second: SpaceShooterAssetPack_IU_307
+  - first:
+      213: -462055327723336671
+    second: SpaceShooterAssetPack_IU_309
+  - first:
+      213: 296061777145883754
+    second: SpaceShooterAssetPack_IU_311
+  - first:
+      213: 5401482748455764174
+    second: SpaceShooterAssetPack_IU_312
+  - first:
+      213: -7942251890796653510
+    second: SpaceShooterAssetPack_IU_313
+  - first:
+      213: -1557013538026691241
+    second: RSilverEnd
+  - first:
+      213: 82707731993968007
+    second: LSilverEnd
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Border_Purple
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d470068b8f9c410d0800000000000000
+      internalID: -3452912944203954355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_Blue
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc11789f0a08d340800000000000000
+      internalID: 4888668457609010390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b78547ecd4be6040800000000000000
+      internalID: 4642847126731458489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be655d2fd80d4ecf0800000000000000
+      internalID: -223824773378648341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bf85599238abd10800000000000000
+      internalID: 2142168787390626652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f89bc4105ac69910800000000000000
+      internalID: 1843883542749878518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e9970b3a4118840800000000000000
+      internalID: 5224479735999471245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b503726e27a4299b0800000000000000
+      internalID: -5074911972745072549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 99
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5b6e7db20058fc0800000000000000
+      internalID: -3493385747650136594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 99
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa578a47dd7c0fe0800000000000000
+      internalID: -1221463035302421769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 99
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dce48a7ec534270800000000000000
+      internalID: 8233526693794336134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 99
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131e4cf81f3f24710800000000000000
+      internalID: 1676170230159958321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 99
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e43691e887af190800000000000000
+      internalID: -7927891642325709160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_18
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 99
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3091bbfe31bba300800000000000000
+      internalID: 264499887200112698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 99
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab16af0eacfa90a0800000000000000
+      internalID: -6873904056710587488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 99
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e321146456cdcd0800000000000000
+      internalID: -2532037538075230654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_22
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 99
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315c0748d22b35550800000000000000
+      internalID: 6148453824856114451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 97
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8390c62d6eda22970800000000000000
+      internalID: 8728730234681821496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 97
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a46f1ac715afd760800000000000000
+      internalID: 7484882627306939557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 97
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0558ce6e38c47710800000000000000
+      internalID: 1690195930642928907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_30
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 96
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f79029a3eb1d810800000000000000
+      internalID: 1788419685810274126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e48c8a177240c00800000000000000
+      internalID: 865860397478465109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8535d9f99b0e6b0800000000000000
+      internalID: -5269007468833056515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf4ba322bd63def0800000000000000
+      internalID: -84603356119871568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_White
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e2e1bc273a30660800000000000000
+      internalID: 7350898730228133446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_White_Opaque
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253564e8f0550c2f0800000000000000
+      internalID: -954669595702701230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7f6c34969d29fd0800000000000000
+      internalID: -2336566210519959584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eb2551fafcef080800000000000000
+      internalID: -9151649041886298474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519ed16ebec6d4d00800000000000000
+      internalID: 958542056133617941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_54
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 88
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4312edda33a21f490800000000000000
+      internalID: -7714338285260234444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a47b68e72ef6100800000000000000
+      internalID: 103550349506726448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_56
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0404aa2d1b8afe330800000000000000
+      internalID: 3742395297065222208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8f22dea6610be50800000000000000
+      internalID: 6822978083967137961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_58
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 85
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5072945c3b3b020800000000000000
+      internalID: 2356424689962124757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 85
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3b188f8a0bac9a0800000000000000
+      internalID: -6211958496233933844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 85
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0f47a1d20643880800000000000000
+      internalID: -8632168838928731939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_63
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 85
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03e3a2f1254cc550800000000000000
+      internalID: 6182392400579912461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_64
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 85
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c76f540042968800800000000000000
+      internalID: 614339202831574978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_66
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 85
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9241e25e9956344f0800000000000000
+      internalID: -845720593366117335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_68
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 85
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc7da1b0c72e3300800000000000000
+      internalID: 233667939237985529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_69
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 85
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19980f1e40a258670800000000000000
+      internalID: 8540278468836886929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_70
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 85
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e71b7ab353bde60800000000000000
+      internalID: 7988036894404476536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d8dc3b1724dac40800000000000000
+      internalID: 5525145373968796955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_76
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cb8c186df0af340800000000000000
+      internalID: 4898244958693669952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_77
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcf87015f34767f0800000000000000
+      internalID: -619451703917740810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_78
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 80
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415794af6326078a0800000000000000
+      internalID: -6309435089679190764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e58cd014c249710800000000000000
+      internalID: 1699031617341251079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_80
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44132452e908ffca0800000000000000
+      internalID: -5980920363406446268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc74621f9c202880800000000000000
+      internalID: -8637855023576613679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_Black
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50c45cd15c4f8a60800000000000000
+      internalID: 7678439804162588763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_Black_Opaque
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4824a9f1cd8c4e250800000000000000
+      internalID: 5973119853548683908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f782f3d66716fc10800000000000000
+      internalID: 2086881207742793721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_100
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74e1222ac826fe30800000000000000
+      internalID: 4536858523243504767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_101
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a152eccfe553df6c0800000000000000
+      internalID: -4108068603007458022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_102
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 71
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a6787614ab77620800000000000000
+      internalID: 2771888885742397974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_104
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 71
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea72ee9b7f5245f70800000000000000
+      internalID: 9175000086767085486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_105
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 71
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a805cd1984093ce0800000000000000
+      internalID: -1425102820129568603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_107
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 71
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c6892d0ca0f5410800000000000000
+      internalID: 1467903826829274187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_108
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 71
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5332f7fff1543ac40800000000000000
+      internalID: 5522333571819184949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_110
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 71
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b0e29a1c68f0540800000000000000
+      internalID: 4976344279592864611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_112
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 71
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e752c3a582b266a10800000000000000
+      internalID: 1902255344923190654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_113
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 71
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab331b642fb00f90800000000000000
+      internalID: -6989376458542859358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_114
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 71
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a3fba5f54a866f0800000000000000
+      internalID: -691121813350040978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_119
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c575da6794a819a0800000000000000
+      internalID: -6262074311619283514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_120
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f136796209160b0800000000000000
+      internalID: -5737145954870288507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_121
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8758d80cd6e5ed0800000000000000
+      internalID: -2423378875703265053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_122
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958e8b36a8c0a0400800000000000000
+      internalID: 291058914436900953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_123
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c51b5f20c876b20800000000000000
+      internalID: 3127622410571963445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_124
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652e98814b13cba70800000000000000
+      internalID: 8843998417824375382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_125
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 57
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dac2a9f889f7090800000000000000
+      internalID: -8034535467671311000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_127
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 57
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8ce504bcc255670800000000000000
+      internalID: 8526770720965839038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_128
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 57
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b249627e7ad9f7a30800000000000000
+      internalID: 4215261120705238059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_130
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 57
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899d8a67e35141140800000000000000
+      internalID: 4689396470022461848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_131
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 57
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2b8b3d01c380520800000000000000
+      internalID: 2668448822186259178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_133
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 57
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaa2374d6af5e1f0800000000000000
+      internalID: -1016130793649296678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_135
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 57
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fa2ade32ee3cd40800000000000000
+      internalID: 5603584199457156934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_136
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 57
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49eac9454783aca70800000000000000
+      internalID: 8847946490209676948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_137
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 57
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3ff31464c1527a0800000000000000
+      internalID: -6402680207169293396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_Gold_Opaque
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407fbff02bcdd3ea0800000000000000
+      internalID: -5891310080200280316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_Silver_Opaque
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70715ce0fb2e638d0800000000000000
+      internalID: -2866854802560313593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_142
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 57
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3d2bafa719793d0800000000000000
+      internalID: -3199929052845386784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_143
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 57
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb492c242ddec610800000000000000
+      internalID: 1643494061466274778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_144
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 57
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72011c16a6fab6d0800000000000000
+      internalID: -2973793410628910467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_145
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 56
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af7df75d3eec7f50800000000000000
+      internalID: 6880636277951922084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8945030f6542e9b0800000000000000
+      internalID: -5052399488861910642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_147
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6236128ae1323a00800000000000000
+      internalID: 734704572489413230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_148
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0eb4ea51b36f8a0800000000000000
+      internalID: -6271760466762276621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_166
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37214a1772ee6f520800000000000000
+      internalID: 2735635676851868275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_167
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3702e6860b664fe0800000000000000
+      internalID: -1205158174498093254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_168
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9043a50c983e5a320800000000000000
+      internalID: 2568709343261897737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_169
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 48
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87a2283131b8dce0800000000000000
+      internalID: -1380158460835747954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdf9b2600ec90950800000000000000
+      internalID: 6415885645217660406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_171
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a654127e2417f240800000000000000
+      internalID: 4825347715465762473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_172
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411efb3489509aeb0800000000000000
+      internalID: -4708225783909326572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_173
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 43
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea63e43ad4a16ce90800000000000000
+      internalID: -7005883249573611858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_175
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 43
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8df2d8f6f5c516c0800000000000000
+      internalID: -4173211815161692785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_176
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 43
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6bf51ffc3d3a190800000000000000
+      internalID: -7952279626944891204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_178
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 43
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49eb7c82ce65fb610800000000000000
+      internalID: 1639124361682599572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_179
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 43
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388bbcc9ac841b190800000000000000
+      internalID: -7948491832281024381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_181
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 43
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac0d0747bcd40e30800000000000000
+      internalID: 4468939409987538086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_183
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 43
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820662bbe364b2db0800000000000000
+      internalID: -4815678141300842456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_184
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 43
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93675fface4e8470800000000000000
+      internalID: 8398736988866831263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_185
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 43
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a6231229fad06b0800000000000000
+      internalID: -5328409741952390623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_Gold
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23397124ae4a2430800000000000000
+      internalID: 3758903305837294383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_Silver
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7378160c0c36d260800000000000000
+      internalID: 7121945883072557946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_190
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d0ee071af213530800000000000000
+      internalID: 3832897128299892014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_191
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e37e2ededf6ec150800000000000000
+      internalID: 5894771965275567078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_192
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0a5b611d48899e0800000000000000
+      internalID: -1614394432848289598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_193
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 40
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdade64219019150800000000000000
+      internalID: 5877488962799250937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8844ed750dd7b10800000000000000
+      internalID: 1980968486922651820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_195
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c497908206bd80630800000000000000
+      internalID: 3893603083896846668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_196
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4771ff0be852bf950800000000000000
+      internalID: 6483817383315052404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_214
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffe3ee3f5233ff00800000000000000
+      internalID: 1149317714568015869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_215
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77f0724703c30a90800000000000000
+      internalID: -7348815730991630468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_216
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c42126d2a55fb110800000000000000
+      internalID: 1278834977062069441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_217
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 29
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5624d9e4c6d304720800000000000000
+      internalID: 2828328101373362789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_219
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 29
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9e4019861732280800000000000000
+      internalID: -9069280530670491222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_220
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 29
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d514c7c789594470800000000000000
+      internalID: 8379327021406492117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_222
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 29
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db66788b77d314b90800000000000000
+      internalID: -7259453539938244931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_223
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 29
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f53d20754ef8c80800000000000000
+      internalID: -8318178924369322180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_225
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 29
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b469ab8604383b820800000000000000
+      internalID: 2932832095006529099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_227
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 29
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4db7c44ce893bc70800000000000000
+      internalID: 8985693822067916106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_228
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 29
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52274da7f2e45ab0800000000000000
+      internalID: -5020138131219340706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_229
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 29
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f97b7d381eb0440800000000000000
+      internalID: 4903260575699017528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHorizontal
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1990d6e13de86ee0800000000000000
+      internalID: -1267502496523183843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_234
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db001560b1c192980800000000000000
+      internalID: -8563282314072620867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_235
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439ff3e2e51cb7af0800000000000000
+      internalID: -397511531845125836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_236
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39756499e8b0eed40800000000000000
+      internalID: 5615438492462372755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_237
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeb9c5f471f62360800000000000000
+      internalID: 7144663343512010465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_238
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e710447ee551a680800000000000000
+      internalID: -8745614518735857692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_239
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3d69b93c5d3a470800000000000000
+      internalID: 8404796365709169608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldHorizontal
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9dfa32b111f6190800000000000000
+      internalID: -7967130407534601799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldVertical
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a8ff207878e1440800000000000000
+      internalID: 4908509657821055642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverVertical
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f808e1d7f1a9ab00800000000000000
+      internalID: 840380891231947001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_257
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9ab03d4f5c98040800000000000000
+      internalID: 4650465745540196823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_258
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd2587ef4b339360800000000000000
+      internalID: 7175143845704052154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_259
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42b16e06f2eacf50800000000000000
+      internalID: 6902578925329822287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_260
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9ccfec580e8ace0800000000000000
+      internalID: -1393617219363223122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_261
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd380a4226ed17c0800000000000000
+      internalID: -4098867050891952713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_262
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e564f5f039622c0c0800000000000000
+      internalID: -4557037459885570466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_263
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d38a54e2ccd6f40800000000000000
+      internalID: 5723455200566983950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_265
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36c1fd99d652c1c0800000000000000
+      internalID: -4484926786249832901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_266
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd89d673f36f2ca00800000000000000
+      internalID: 775452837234448604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_268
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53224199525c5b80800000000000000
+      internalID: -8404752259937590438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_269
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80f87bba170104e0800000000000000
+      internalID: -2017323346689462130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_271
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19432e403912c00b0800000000000000
+      internalID: -5761192907987864431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_273
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067b4d911d8d571f0800000000000000
+      internalID: -1047692945700636832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_274
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17521c75c6c72940800000000000000
+      internalID: 5271400440352888602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_275
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ec5eae0840f2c80800000000000000
+      internalID: -8345446632750985672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_276
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f205a1ce197ce3ab0800000000000000
+      internalID: -5026360704553562065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_277
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631c603cd14180990800000000000000
+      internalID: -7419658268034285258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_278
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e6d3004720cc860800000000000000
+      internalID: 7551413372436967069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_279
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d4bdc0026b7b0b0800000000000000
+      internalID: -5712897353525277332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_280
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a81e581051952900800000000000000
+      internalID: 659092693671876771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_281
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7535695702d1f8010800000000000000
+      internalID: 1193204451525415767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_295
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d285aec661365d8e0800000000000000
+      internalID: -1669319138903173075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_296
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c813cbc32d1c2f550800000000000000
+      internalID: 6193225546294112652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_297
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51144d886d2fc5f80800000000000000
+      internalID: -8116345425195941611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_298
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27065541cebf0b660800000000000000
+      internalID: 7399691179141718130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_299
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bf4c1c205924a60800000000000000
+      internalID: 7656846155556649816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_300
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee5b3c4aefa1b0e0800000000000000
+      internalID: -2255828517499740440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_301
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a620e9010c2b3b640800000000000000
+      internalID: 5094612141468418666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_303
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6249dfa5873842640800000000000000
+      internalID: 5054309234762421286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_304
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e73f38f6c549750800000000000000
+      internalID: 6310770611877805581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_306
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b25e67174a470190800000000000000
+      internalID: -7996340944176786759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_307
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2957183bc758a5050800000000000000
+      internalID: 5790087041572238738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_309
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c4974a0237699f0800000000000000
+      internalID: -462055327723336671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_311
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ce9522e92db1400800000000000000
+      internalID: 296061777145883754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_312
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec04b1201fbe5fa40800000000000000
+      internalID: 5401482748455764174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_IU_313
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3414643cf377c190800000000000000
+      internalID: -7942251890796653510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RSilverEnd
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 25
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755e173cf60646ae0800000000000000
+      internalID: -1557013538026691241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSilverEnd
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dbda97e36d52100800000000000000
+      internalID: 82707731993968007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
