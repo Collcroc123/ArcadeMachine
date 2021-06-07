@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\colli\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\colli\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Arcade Project.-754448653.00" t="ExcludeRecursive" />
-    <e p="C:\Users\colli\Documents\Unity\Arcade Project" t="IncludeRecursive">
+    <e p="C:\Users\colli\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Arcade Project.1263751514.00" t="ExcludeRecursive" />
+    <e p="C:\Users\colli\Documents\Repos\ArcadeMachine\Arcade Project" t="IncludeRecursive">
       <e p="Arcade Project.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
@@ -12,6 +12,13 @@
         <e p="MenuiNavi.cs" t="Include" />
         <e p="MusicImport.cs" t="Include" />
         <e p="Plugins" t="Include">
+          <e p="Blur" t="Include">
+            <e p="HLSL" t="Include">
+              <e p="BluredColor.hlsl" t="Include" />
+              <e p="PixelPerfectBlur.cs" t="Include" />
+              <e p="Specular.hlsl" t="Include" />
+            </e>
+          </e>
           <e p="CircularScrollingList" t="Include">
             <e p="_Demo" t="Include">
               <e p="Scripts" t="Include">
@@ -32,9 +39,44 @@
             <e p="MovementCtrl.cs" t="Include" />
             <e p="MyListBox.cs" t="Include" />
           </e>
+          <e p="KawaseBlur" t="Include">
+            <e p="KawaseBlur.cs" t="Include" />
+            <e p="KawaseBlur.shader" t="Include" />
+          </e>
+          <e p="link.xml" t="Include" />
+          <e p="Recyclable Scroll Rect" t="Include">
+            <e p="Demo" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="DemoCell.cs" t="Include" />
+                <e p="RecyclableScrollerDemo.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Main" t="Include">
+              <e p="Editor" t="Include">
+                <e p="RecyclableScrollRectEditor.cs" t="Include" />
+                <e p="RecyclableScrollViewEditorTool.cs" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="Interfaces" t="Include">
+                  <e p="ICell.cs" t="Include" />
+                  <e p="IRecyclableScrollRectDataSource.cs" t="Include" />
+                </e>
+                <e p="RecyclableScrollRect.cs" t="Include" />
+                <e p="Recycling System" t="Include">
+                  <e p="HorizontalRecyclingSystem.cs" t="Include" />
+                  <e p="RecyclingSystem.cs" t="Include" />
+                  <e p="VerticalRecyclingSystem.cs" t="Include" />
+                </e>
+                <e p="Utils" t="Include">
+                  <e p="UIExtension.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
           <e p="SpectrumsManager.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
+          <e p="ArrayData.cs" t="Include" />
           <e p="Bullets.cs" t="Include" />
           <e p="DestroyTime.cs" t="Include" />
           <e p="EnemyBrain.cs" t="Include" />
@@ -42,7 +84,11 @@
           <e p="IntData.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
           <e p="SceneSwitch.cs" t="Include" />
+          <e p="StringData.cs" t="Include" />
         </e>
+        <e p="ScrollList.cs" t="Include" />
+        <e p="SongEntry.cs" t="Include" />
+        <e p="SongPlayer.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />

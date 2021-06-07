@@ -1,4 +1,3 @@
-using System;
 using System.Collections;
 using UnityEngine;
 using System.Diagnostics;
@@ -51,8 +50,8 @@ public class MenuiNavi : MonoBehaviour
             }
             else if (contentID == 2) //Space Defence
             {
-                sceneName = "Space"; 
-                StartCoroutine(LoadGame());
+                //sceneName = "Space";
+                //StartCoroutine(LoadGame());
             }
             else if (contentID == 3) //Jukebox
             {

@@ -8,6 +8,7 @@ TagManager:
   - Missiles
   - Bullets
   - Explosion
+  - ListEntry
   layers:
   - Default
   - TransparentFX
