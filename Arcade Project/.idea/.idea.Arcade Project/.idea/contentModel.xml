@@ -9,6 +9,7 @@
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="InputMaster.cs" t="Include" />
         <e p="MenuiNavi.cs" t="Include" />
         <e p="MusicImport.cs" t="Include" />
         <e p="Plugins" t="Include">

@@ -2,11 +2,12 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using UnityEngine.InputSystem;
 
 public class SongPlayer : MonoBehaviour
 {
     private Animator fade;
-    private AudioSource source;
+    public AudioSource source;
     private AudioClip clip;
     private SongEntry currentEntry;
     //private int currentSongNum;
@@ -19,37 +20,53 @@ public class SongPlayer : MonoBehaviour
     [HideInInspector] public Text currentSong;
     //[HideInInspector] public Image currentBackground;
     public GameObject background;
+    private GameObject button;
+    private InputMaster controls;
 
     private void Awake()
     {
         source = GameObject.Find("Black Fade").GetComponent<AudioSource>();
         fade = GameObject.Find("Black Fade").GetComponent<Animator>();
-        background.SetActive(false);
+        //background.SetActive(false);
+        controls = new InputMaster();
+        controls.User.Enable();
+        controls.User.Left.performed += GoLeft;
+        controls.User.Right.performed += GoRight;
+        controls.User.Select.performed += Selected;
+        controls.User.Back.performed += PlayToggle;
     }
 
     public void Update()
     {
         timeBar.value = source.time;
-        
-        if (Input.GetKeyDown("return"))
+    }
+
+    private void GoLeft(InputAction.CallbackContext context)
+    {
+        scroll.GoUp(context);
+        StartCoroutine(LoadAudio());
+    }
+    private void GoRight(InputAction.CallbackContext context)
+    {
+        scroll.GoDown(context);
+        StartCoroutine(LoadAudio());
+    }
+    private void Selected(InputAction.CallbackContext context)
+    {
+        if (button.tag == "Enemy")
         {
-            StartCoroutine(LoadAudio());
+            StartCoroutine(ExitMusic());
         }
-        if (Input.GetKeyDown("left"))
+        else
         {
-            scroll.GoUp();
-            StartCoroutine(LoadAudio());
-        }
-        if (Input.GetKeyDown("right"))
-        {
-            scroll.GoDown();
             StartCoroutine(LoadAudio());
         }
     }
 
     private IEnumerator LoadAudio()
     {
-        yield return new WaitForSeconds(0.25f);
+        yield return new WaitForSeconds(0.5f);
+        scroll.TimeReset(false);
         WWW request = GetAudioFromFile(currentEntry.songDirect);
         yield return request;
         
@@ -62,7 +79,7 @@ public class SongPlayer : MonoBehaviour
         currentArtist.text = currentEntry.artist;
         currentSong.text = currentEntry.title;
         //currentBackground = currentEntry.cover;
-        background.SetActive(true);
+        //background.SetActive(true);
     }
     
     private WWW GetAudioFromFile(string path)
@@ -72,7 +89,7 @@ public class SongPlayer : MonoBehaviour
         return request;
     }
 
-    public void PlayToggle()
+    public void PlayToggle(InputAction.CallbackContext context)
     {
         if (source.isPlaying) {source.Pause();}
         else {source.Play();}
@@ -89,20 +106,17 @@ public class SongPlayer : MonoBehaviour
         source.loop = loopBool;
     }
 
-    public void ExitScene()
-    {
-        StartCoroutine(ExitMusic());
-    }
-    
     public IEnumerator ExitMusic()
     {
         fade.SetTrigger("FadeOut");
+        source.Pause();
         yield return new WaitForSeconds(2.75f);
         SceneManager.LoadScene("Main Menu");
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        button = other.gameObject;
         currentEntry = other.gameObject.GetComponent<SongEntry>();
     }
 }

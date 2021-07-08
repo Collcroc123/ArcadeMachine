@@ -23,22 +23,27 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Arcade Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Arcade Project/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Arcade Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Arcade Project/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Arcade Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Arcade Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/UniversalRenderPipelineAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/UniversalRenderPipelineAsset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/BoxSelect.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/BoxSelect.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Fade Out.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Fade Out.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/ListMove.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/ListMove.anim" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/MenuiNavi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MenuiNavi.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/MusicImport.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MusicImport.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Spectrum.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Spectrum.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Specturms.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Specturms.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/spectrum.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/spectrum.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Post-processing Profile.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Post-processing Profile.asset.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Jukebox.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Jukebox.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScrollList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScrollList.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SongPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SongPlayer.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/ApiUpdaterCheck.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/ApiUpdaterCheck.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker3.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker4.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker5.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache" afterDir="false" />
@@ -78,16 +83,16 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Plugins/CircularScrollingList/ListPositionCtrl.cs" />
         <option value="$PROJECT_DIR$/Assets/MusicPlayer.cs" />
-        <option value="$PROJECT_DIR$/Assets/MenuiNavi.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StringData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ArrayData.cs" />
         <option value="$PROJECT_DIR$/Assets/Bitmap.cs" />
         <option value="$PROJECT_DIR$/Assets/BLUR.shader" />
         <option value="$PROJECT_DIR$/Assets/ScrollTwo.cs" />
-        <option value="$PROJECT_DIR$/Assets/MusicImport.cs" />
-        <option value="$PROJECT_DIR$/Assets/ScrollList.cs" />
         <option value="$PROJECT_DIR$/Assets/SongEntry.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScrollList.cs" />
         <option value="$PROJECT_DIR$/Assets/SongPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicImport.cs" />
+        <option value="$PROJECT_DIR$/Assets/MenuiNavi.cs" />
       </list>
     </option>
   </component>
@@ -149,6 +154,8 @@
       <workItem from="1621286898230" duration="17097000" />
       <workItem from="1621359751076" duration="14887000" />
       <workItem from="1622434730906" duration="72206000" />
+      <workItem from="1624255055479" duration="5738000" />
+      <workItem from="1624290583568" duration="15114000" />
     </task>
     <servers />
   </component>
@@ -167,6 +174,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -176,5 +184,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621287071078" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1624304942547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1624304942547" />
   </component>
 </project>

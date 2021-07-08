@@ -9,9 +9,10 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu.unity
     guid: 2525454d61eec774fb82e369c43223b5
   - enabled: 1
-    path: Assets/Scenes/Space.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
     path: Assets/Scenes/Jukebox.unity
     guid: 6f0b34b2e56368f4aad9f981ad025731
-  m_configObjects: {}
+  - enabled: 0
+    path: Assets/Scenes/Space.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: e0d935ceb3c960644bac2b0b7fcc4bc8, type: 2}
