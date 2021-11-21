@@ -603,6 +603,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1138,7 +1139,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1038348805
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2563,6 +2564,7 @@ GameObject:
   - component: {fileID: 2089946937}
   - component: {fileID: 2089946938}
   - component: {fileID: 2089946939}
+  - component: {fileID: 2089946940}
   m_Layer: 5
   m_Name: CircularList
   m_TagString: Untagged
@@ -2974,6 +2976,108 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &2089946940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2089946932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Actions: {fileID: -944628639613478452, guid: 2b2bae236bf159e429571fee23ee2084, type: 3}
+  m_NotificationBehavior: 2
+  m_UIInputModule: {fileID: 0}
+  m_DeviceLostEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_DeviceRegainedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ControlsChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ActionEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 2089946936}
+        m_TargetAssemblyTypeName: MenuiNavi, Assembly-CSharp
+        m_MethodName: GoUp
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_ActionId: 539e1a28-08da-460d-aa22-d46fd305b6cb
+    m_ActionName: User/Up
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 2089946936}
+        m_TargetAssemblyTypeName: MenuiNavi, Assembly-CSharp
+        m_MethodName: GoDown
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_ActionId: e52d1b99-3bba-4973-baea-c24fc3b7eed0
+    m_ActionName: User/Down
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 2089946936}
+        m_TargetAssemblyTypeName: MenuiNavi, Assembly-CSharp
+        m_MethodName: Selected
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_ActionId: b5d1d3c9-b48d-471f-9f7d-463ff9e8e712
+    m_ActionName: User/Select
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 2089946936}
+        m_TargetAssemblyTypeName: MenuiNavi, Assembly-CSharp
+        m_MethodName: Undo
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_ActionId: 35e74faf-4e54-4986-bd33-05f3db08e315
+    m_ActionName: User/Back
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 9c1288e4-d880-448e-97dd-66d3bd209b96
+    m_ActionName: User/Left
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 38c88892-7328-4c49-a330-0990c97bca9a
+    m_ActionName: User/Right
+  m_NeverAutoSwitchControlSchemes: 0
+  m_DefaultControlScheme: Keyboard
+  m_DefaultActionMap: User
+  m_SplitScreenIndex: -1
+  m_Camera: {fileID: 1623514792}
 --- !u!1 &2141110739
 GameObject:
   m_ObjectHideFlags: 0

@@ -20,33 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1319d4ca-87a7-49d7-8a72-4f2763a4d80e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Arcade Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Arcade Project/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Arcade Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Arcade Project/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Arcade Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Arcade Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/BoxSelect.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/BoxSelect.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Fade Out.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Fade Out.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/ListMove.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/ListMove.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InputMaster.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/InputMaster.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InputMaster.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/InputMaster.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InputSystem.inputsettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/InputSystem.inputsettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/UniversalRenderPipelineAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/UniversalRenderPipelineAsset.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/MenuiNavi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MenuiNavi.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/MusicImport.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MusicImport.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Jukebox.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Jukebox.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main Menu.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ScrollList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScrollList.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/SongPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SongPlayer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/ApiUpdaterCheck.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/ApiUpdaterCheck.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker3.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker4.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker5.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/Packages-Update.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/Packages-Update.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,14 +47,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/SongPlayer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ScrollList.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StringData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneSwitch.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameStart.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/InputModules/BaseInput.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StringData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScrollList.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bullets.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameStart.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/SpectrumsManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SongPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -89,10 +80,11 @@
         <option value="$PROJECT_DIR$/Assets/BLUR.shader" />
         <option value="$PROJECT_DIR$/Assets/ScrollTwo.cs" />
         <option value="$PROJECT_DIR$/Assets/SongEntry.cs" />
-        <option value="$PROJECT_DIR$/Assets/ScrollList.cs" />
-        <option value="$PROJECT_DIR$/Assets/SongPlayer.cs" />
-        <option value="$PROJECT_DIR$/Assets/MusicImport.cs" />
+        <option value="$PROJECT_DIR$/Assets/InputMaster.cs" />
         <option value="$PROJECT_DIR$/Assets/MenuiNavi.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScrollList.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicImport.cs" />
+        <option value="$PROJECT_DIR$/Assets/SongPlayer.cs" />
       </list>
     </option>
   </component>
@@ -107,7 +99,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+  <component name="RunManager">
     <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="$USER_HOME$/Desktop/Builds\Arcade Project.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -156,6 +148,7 @@
       <workItem from="1622434730906" duration="72206000" />
       <workItem from="1624255055479" duration="5738000" />
       <workItem from="1624290583568" duration="15114000" />
+      <workItem from="1637521841329" duration="2302000" />
     </task>
     <servers />
   </component>

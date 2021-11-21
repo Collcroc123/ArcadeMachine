@@ -19,9 +19,9 @@ public class ScrollList : MonoBehaviour
         startPos = new Vector3(0, 0, 0);
         controls = new InputMaster();
         controls.User.Enable();
-        controls.User.Up.performed += GoUp;
-        controls.User.Down.performed += GoDown;
-        controls.User.Select.performed += Selected;
+        //controls.User.Up.performed += GoUp;
+        //controls.User.Down.performed += GoDown;
+        //controls.User.Select.performed += Selected;
     }
 
     void Update()
@@ -43,7 +43,7 @@ public class ScrollList : MonoBehaviour
         }
     }
 
-    public void GoUp(InputAction.CallbackContext context)
+    public void GoUp() //InputAction.CallbackContext context
     {
         TimeReset(true);
         endPos = new Vector3(0, startPos.y - (baseDist * distance), 0);
@@ -54,14 +54,14 @@ public class ScrollList : MonoBehaviour
         StartCoroutine(Move());
     }
 
-    public void GoDown(InputAction.CallbackContext context)
+    public void GoDown()
     {
         TimeReset(true);
         endPos = new Vector3(0, startPos.y + (baseDist * distance), 0); //2.77777f
         StartCoroutine(Move());
     }
 
-    public void Selected(InputAction.CallbackContext context)
+    public void Selected()
     {
         if (time == 1200)
         {

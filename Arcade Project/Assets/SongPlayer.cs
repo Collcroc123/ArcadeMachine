@@ -30,10 +30,10 @@ public class SongPlayer : MonoBehaviour
         //background.SetActive(false);
         controls = new InputMaster();
         controls.User.Enable();
-        controls.User.Left.performed += GoLeft;
-        controls.User.Right.performed += GoRight;
-        controls.User.Select.performed += Selected;
-        controls.User.Back.performed += PlayToggle;
+        //controls.User.Left.performed += GoLeft;
+        //controls.User.Right.performed += GoRight;
+        //controls.User.Select.performed += Selected;
+        //controls.User.Back.performed += PlayToggle;
     }
 
     public void Update()
@@ -41,17 +41,17 @@ public class SongPlayer : MonoBehaviour
         timeBar.value = source.time;
     }
 
-    private void GoLeft(InputAction.CallbackContext context)
+    private void GoLeft() //InputAction.CallbackContext context
     {
-        scroll.GoUp(context);
+        scroll.GoUp();
         StartCoroutine(LoadAudio());
     }
-    private void GoRight(InputAction.CallbackContext context)
+    private void GoRight()
     {
-        scroll.GoDown(context);
+        scroll.GoDown();
         StartCoroutine(LoadAudio());
     }
-    private void Selected(InputAction.CallbackContext context)
+    public void Selected()
     {
         if (button.tag == "Enemy")
         {
