@@ -493,11 +493,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 666781b6775b23f478575c9ffb16aa4b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  songLocations: {fileID: 11400000, guid: 1eb3b887440f56f45b55f09bb2cb11dd, type: 2}
+  songDirect: 
   artistText: {fileID: 3272193311186910388}
   titleText: {fileID: 3272193311247092730}
   lengthText: {fileID: 3272193310867640683}
-  songDirect: 
-  songLocations: {fileID: 11400000, guid: 1eb3b887440f56f45b55f09bb2cb11dd, type: 2}
+  artist: 
+  title: 
+  cover: {fileID: 0}
 --- !u!61 &5341236433582733141
 BoxCollider2D:
   m_ObjectHideFlags: 0
